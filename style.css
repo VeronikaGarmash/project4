@@ -1,0 +1,18 @@
+.row{
+    width: 210px;
+    display: flex;
+}
+
+.kids{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
